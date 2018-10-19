@@ -9,7 +9,8 @@ imag
 
 
 ## Tutorial
-1. Signup with Github
+1. Signup (Can signup with Github)
+2. 
 
 
 ## Resources
