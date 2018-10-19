@@ -10,11 +10,11 @@ CircleCI allows teams to rapidly release code they trust by automating the build
 
 ## CircleCI is compatible with:
 
-Python, Node.js, Ruby, Java, Go, etc
-Ubuntu (12.04, 14.04), Mac OS X (paid accounts)
-Github, Bitbucket
-AWS, Azure, Heroku, Docker, dedicated server
-Jira, HipChat, Slack
+* Python, Node.js, Ruby, Java, Go, etc
+* Ubuntu (12.04, 14.04), Mac OS X (paid accounts)
+* Github, Bitbucket
+* AWS, Azure, Heroku, Docker, dedicated server
+* Jira, HipChat, Slack
 
 ## How to setup CircleCI in your next project
 1. Signup at https://circleci.com/ (Can signup with Github)
