@@ -5,8 +5,9 @@
 
 CircleCI allows teams to rapidly release code they trust by automating the build, test, and delivery process. Thousands of leading companies, including Facebook, Kickstarter, Spotify, Lyft, Palantir, Coinbase, Expedia, Stitch Fix, and Dollar Shave Club rely on CircleCI to accelerate delivery and improve quality."
 
-imag
+<img src="Screenshot 2018-10-19 11.12.18.png">
 
+-You can store your API tokens
 
 ## Tutorial
 1. Signup (Can signup with Github)
