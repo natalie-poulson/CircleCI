@@ -1,1 +1,1 @@
-# CircleCI
+# CircleCI : Continuous Integration and Delivery
