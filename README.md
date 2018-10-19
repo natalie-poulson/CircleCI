@@ -15,3 +15,5 @@ imag
 ## Resources
 
 https://circleci.com/
+
+https://hackernoon.com/continuous-integration-circleci-vs-travis-ci-vs-jenkins-41a1c2bd95f5
